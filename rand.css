@@ -1,0 +1,20 @@
+#randHeader {
+    color: red;
+    font-family: Verdana;
+    font-size: 75;
+}
+#randPara {
+    color: green;
+    font-family: Consolas;
+    font-size: 25;
+}
+#randParaTwo {
+    color: red;
+    font-family: Consolas;
+    font-size: 25;
+}
+#child {
+    color: blue;
+    font-family: Helvetica;
+    font-size: 30;
+}
